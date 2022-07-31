@@ -7,10 +7,10 @@
 병원과의 거리, 대기 시간 등의 여러 상황을 고려하여 최적화된 경로를 알려줄 수 있도록 제작
 
 # 개발환경
-## Pycharm
+Pycharm
 
 # 개발언어
-## Python, JavaScript
+Python, JavaScript
 
 # 사용API
-## 카카오 맵 API, 티맵 API
+카카오 맵 API, 티맵 API
