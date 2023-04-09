@@ -23,6 +23,7 @@ Python, JavaScript
 
 # 그래프 구축
 ![image](https://user-images.githubusercontent.com/40080826/230781447-0d78cf91-9066-418e-bf83-1179ec80f9c2.png)
+
 실제 병원 위치를 빠르게 찾기 위하여 K-d 트리를 활용해 그래프 구축
 
 # 이동 경로 cost 설정
@@ -35,6 +36,7 @@ Python, JavaScript
 
 # 경로 최적화
 ![image](https://user-images.githubusercontent.com/40080826/230781863-1c3e1a17-79a5-47ae-bfe6-d9ee84630ab2.png)
+
 여러 위치에서 경로를 탐색할 경우 각 경로에 대한 cost에 영향이 가지 않도록 최적화함.
 겹치는 경로를 최적화하여 단위 시간당 더 많은 환자를 검사할 수 있도록함.
 
