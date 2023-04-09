@@ -1,4 +1,4 @@
-# urp
+# 학부생 연구프로그램(URP)
 
 한국과학창의재단에서 실시한 학부생 연구프로그램(URP)에 선정되어 진행한 프로젝트.
 
@@ -14,3 +14,6 @@ Python, JavaScript
 
 # 사용API
 카카오 맵 API, 티맵 API
+
+# 그래프 구축
+![image](https://user-images.githubusercontent.com/40080826/230781447-0d78cf91-9066-418e-bf83-1179ec80f9c2.png)
