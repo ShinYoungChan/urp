@@ -159,8 +159,7 @@ if __name__ == '__main__':
     #         "vertsion": 1,
     #         "formal": "json",
     #         "callback": "result",
-    #         # "appkey": "l7xx3f5a054e4ce5415591e8ec0abaf942f5",  # 영찬
-    #         "appkey": "l7xxbcbc5b58e88e42ef97b859c23fd6e8bf", #나
+    #         "appkey": appkey # tmap api 키
     #         "fullAddr" : fullAddr,
     #         "addresssFlag": "F00",
     #         "coordType": "WGS84GEO"
