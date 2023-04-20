@@ -62,9 +62,7 @@ def TMapTime(startLat, startLng, endLat, endLng, type):
         try:
             url = "https://apis.openapi.sk.com/tmap/routes/pedestrian"
             headers = {
-                # "appkey": "l7xxbcbc5b58e88e42ef97b859c23fd6e8bf", #나
-                "appkey": "l7xx3f5a054e4ce5415591e8ec0abaf942f5", #영찬
-                # "appkey": "l7xx64606f6d0f76406f977150b7e9537114", # 동희
+                "appkey": "appkey" # tmap api 키
                 "version": "1",
                 "callback": "",
             }
@@ -103,9 +101,7 @@ def TMapTime(startLat, startLng, endLat, endLng, type):
         try:
             url = "https://apis.openapi.sk.com/tmap/routes"
             headers = {
-                # "appkey": "l7xxbcbc5b58e88e42ef97b859c23fd6e8bf", #나
-                "appkey": "l7xx3f5a054e4ce5415591e8ec0abaf942f5", #영찬
-                # "appkey": "l7xx64606f6d0f76406f977150b7e9537114", # 동희
+                "appkey": "appkey" # tmap api 키
                 "version": "1",
                 "callback": ""
             }
