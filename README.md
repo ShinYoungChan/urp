@@ -36,10 +36,19 @@ Python, JavaScript
 * t_trav: 현재 위치에서 병원까지 걸리는 시간
 결과적으로 대기환자가 적고 거리가 가깝고 병원 수용 가능 인원이 많을 수록 cost를 낮게 설정함.
 
+# Cost 계산 및 분배
+![image](https://github.com/ShinYoungChan/urp/assets/40080826/1a4accab-4f90-44a6-8c48-8dbf97a907d6)
+* Cost가 낮은 병원부터 환자를 보내면서 Cost 갱신
+
+# 그래프 애니메이션
+![미디어01](https://github.com/ShinYoungChan/urp/assets/40080826/2c8a2568-9bdc-47e8-b8c7-d5eb51e2f9bd)
+
+
 # 이동경로 확인 및 분배 인원 확인
 ![image](https://github.com/ShinYoungChan/urp/assets/40080826/c42e2860-1952-47c7-b9f7-757f8815ffd4)
 * 보라색 위치에서 검사할 수 있는 병원 확인 가능
 * 검사 가능 병원의 cost 및 이동인원 파악
+* Scale: 병원 규모(검사를 한번에 할 수 있는 수), Agents: 병원으로 이동한 환자 수, Cost: 분배 후 계산된 Cost, start: 시작 시간, end: 끝나는 시간
 
 # 경로 최적화
 ![image](https://user-images.githubusercontent.com/40080826/230781863-1c3e1a17-79a5-47ae-bfe6-d9ee84630ab2.png)
